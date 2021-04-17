@@ -1,0 +1,17 @@
+.res{
+	background-color: Gray;
+	text-align: right;
+	margin-top: 30px;
+	color: white;
+}
+.numb{
+background-color: Gainsboro;
+border: 1px solid silver;
+text-align: center;
+}
+.nb{
+	background-color: OrangeRed;
+	border: 1px solid silver;
+text-align: center;
+color: white;
+}
